@@ -46,9 +46,9 @@ $url = 'https://e-bourse-maroc.onousc.ma/page2.php';  // Adjust the action attri
 
 // Define the form data you want to submit
 $formData = [
-    'cne' => 'r131273181',  // Replace 'your_cne_value' with the actual CNE value
+    'cne' => 'g135155294',  // Replace 'your_cne_value' with the actual CNE value
     'abac' => '2020',  // Replace 'your_abac_value' with the actual ABAC value
-    'type' => '1',  // Replace 'your_type_value' with the actual Type value
+    'type' => '2',  // Replace 'your_type_value' with the actual Type value
 ];
 
 // Create an instance of the Validator class
